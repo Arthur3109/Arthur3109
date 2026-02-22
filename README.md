@@ -27,6 +27,12 @@ Projeto interdisciplinar finalista, onde fui responsável por todo o desenvolvim
 - **Tech Stack:** HTML5, CSS3 e JavaScript.
 - [ Ver Repositório do Projeto](https://arthur3109.github.io/Site-Institucional/)
 
+- #### **Portfólio Pessoal: Dev AEL**
+Projeto principal de apresentação profissional, focado em transmitir autoridade e modernidade através de um design de alto impacto.**.
+- **Destaques:** Interface Dark Mode com gradientes vibrantes, foco total em UX/UI e design responsivo..
+- **Tech Stack:** HTML5, CSS3 e JavaScript.
+- [ Ver Repositório do Projeto](https://arthur3109.github.io/My_Portifolio/)
+
 ---
 
 ### 📫 Como me encontrar

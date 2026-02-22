@@ -1,5 +1,4 @@
 # Olá, eu sou o Arthur Emmerich Lamas! 
-# Apelido: DEV AEL
 
 Estudante de **Informática para Internet na ETEC Praia Grande** e aspirante a **Desenvolvedor Front-End**. Sou apaixonado por transformar ideias em interfaces funcionais e responsivas, focando sempre na experiência do usuário.
 

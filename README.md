@@ -7,7 +7,6 @@ Estudante de **Informática para Internet na ETEC Praia Grande** e aspirante a *
 ### 🚀 Sobre Mim
 -  Atualmente cursando o Técnico em Informática (Extensão ETEC).
 -  Focado em dominar o ecossistema Web (HTML, CSS e JavaScript).
--  Interessado em UI/UX Design.
 -  Em constante aprendizado e busca por evolução técnica.
 
 ---
